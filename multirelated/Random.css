@@ -1,0 +1,65 @@
+#bo-rp-box li {
+    display: block;
+    background: 0 0;
+    box-shadow: .3rem .3rem .6rem var(--greyLight-2), -.2rem -.2rem .5rem var(--white);
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding: 10px
+}
+
+#bo-rp-box li {
+    border-bottom: 1px dashed var(--bgcolor)
+}
+
+#bo-rp-box li {
+    box-shadow: none
+}
+
+#bo-rp-box li {
+    display: block;
+    background: 0 0;
+    box-shadow: none;
+    float: left;
+    width: 100%;
+    border: 1px solid var(--bgcolor);
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding: 10px;
+    border-radius: 8px
+}
+
+#bo-rp-box a {
+    color: #0F0F0F;
+    text-decoration: none;
+}
+
+#bo-rp-box a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+#bo-rp-box a:hover {
+    color: blue
+}
+
+
+#bo-rp-box li {
+    margin: 3px 3px;
+    margin-bottom: 2%;
+    position: relative;
+    font-size: 18px;
+    font-family: SolaimanLipi;
+    box-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
+    cursor: pointer;
+    font-weight: bold;
+    transition: all.3s ease;
+    overflow: hidden;
+}
+
+#bo-rp-box li {
+    color: var(--bgcolor);
+    text-shadow: 0.3rem 0.3rem 0.6rem var(--greyLight-2), -0.2rem -0.2rem 0.5rem var(--white);
+}
