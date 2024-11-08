@@ -12,3 +12,136 @@ ol#mbtTOC{display:none}.mostpopuler h3:before{display:none}#backer .replaced h1 
 {"mode":"full","isActive":false}    
 .post-action p {line-height: 25px;}.night .load-more a, .night .show-posts .load-posts, .night #backer .adsdiv, .night #backer img.imgrounder, .night #backer .copycenter h3, .night #backer .postscan canvas, .night #backer .tg-menu { box-shadow: none;}
 .night #backer #related-posts ul li{box-shadow:none;border: 1px solid var(--bgcolor);padding: 10px !important;background: none;}
+
+
+#backer .replaced h1 a { max-width: none;font-family:SolaimanLipi;}
+.google-auto-placed{display:none}.demodown{padding:10px;margin-left:25%}.demodown a{padding:10px;border:1px solid var(--bgcolor);border-radius:10px;color:var(--bgcolor);font-weight:700;margin:10px;cursor:pointer;transition:.5s}.demodown a:hover{background:var(--bgcolor);color:#fff;transition:.5s}.PopularPosts ul li{display:block;background:0 0;box-shadow:none;float:left;width:100%;border:1px solid var(--bgcolor);margin-bottom:10px;padding-bottom:10px;padding:10px;border-radius:8px}.mrlaboratorytable{border:1px solid var(--bgcolor);width:100%;height:auto;border-collapse:separate}.mrlaboratorytable caption{text-align:center;border-top:1px solid var(--bgcolor);font-size:20px;font-weight:700}.mrlaboratorytable td,.mrlaboratorytable tr{border:1px solid var(--bgcolor);padding:7px;border-collapse:separate;font-family:'Font Awesome 5 Pro'}.mrlaboratorytable th{font-size:20px;font-family:Oswald;text-align:center}/*Template Name: Masud Computer BD Pro Redesigned: Masud Rana Admin : Masud Rana URL: https://www.masudcomputerbd.info*//* Variable definitions====================<Group description="New Comment Required – Dont edit"><Variable name="body.background" description="Body Background" type="background" color="#000" default="#000 none repeat scroll top left" value="#000 none repeat scroll top left"/><Variable name="body.font" description="Font" type="font" default="normal normal 14px Arial, sans-serif" value="normal normal 14px Arial"/><Variable name="body.text.color" description="Text Color" type="color" default="#222" value="#222222"/><Variable name="body.theme.color" description="Theme Color" type="color" default="#000000" value="#000000"/><Variable name="body.text.font" description="2" type="font" default="$(body.font)" value="normal normal 14px Arial, sans serif"/><Variable name="posts.background.color" description="6" type="color" default="#fff" value="#ffffff"/><Variable name="body.link.color" description="7" type="color" default="#2196f3" value="#2196f3"/><Variable name="body.link.visited.color" description="8" type="color" default="$(body.link.color)" value="#2196f3"/><Variable name="body.link.hover.color" description="9" type="color" default="$(body.link.color)" value="#2196f3"/><Variable name="blog.title.font" description="10" type="font" default="$(robotoBold45)" value="$(robotoBold45)"/><Variable name="blog.title.color" description="11" type="color" default="#fff" value="#ffffff"/><Variable name="header.icons.color" description="12" type="color" default="#fff" value="#ffffff"/><Variable name="tabs.font" description="13" type="font" family="$(body.font.family)" size="$(body.font.size)" default="700 normal $(size) $(family)" value="700 normal $(size) $(family)"/><Variable name="tabs.color" description="14" type="color" default="#ccc" value="#cccccc"/><Variable name="tabs.selected.color" description="15" type="color" default="#fff" value="#ffffff"/><Variable name="tabs.overflow.background.color" description="16" type="color" default="$(posts.background.color)" value="#ffffff"/><Variable name="tabs.overflow.color" description="17" type="color" default="$(posts.text.color)" value="#222222"/><Variable name="tabs.overflow.selected.color" description="18" type="color" default="$(posts.title.color)" value="#212121"/><Variable name="posts.title.color" description="19" type="color" default="#212121" value="#212121"/><Variable name="posts.title.font" description="20" type="font" default="$(robotoBold22)" value="$(robotoBold22)"/><Variable name="posts.text.font" description="21" type="font" default="$(body.text.font)" value="normal normal 14px &#39;roboto&#39;, sans-serif"/><Variable name="posts.text.color" description="22" type="color" default="$(body.text.color)" value="#222222"/><Variable name="posts.icons.color" description="23" type="color" default="#707070" value="#707070"/><Variable name="labels.background.color" description="24" type="color" default="$(sidebar.backgroundColorTopHD)" value="$(sidebar.backgroundColorTopHD)"/></Group>
+*/
+
+
+
+
+
+
+  
+/* Loadmore */
+#blog-pager.loadmore{box-shadow: .3rem .3rem .6rem var(--greyLight-2),-.2rem -.2rem .5rem var(--white)}
+#blog-pager.loadmore{background: linear-gradient(to left, #ff0000 0%, #006600 100%)}
+#blog-pager.loadmore{display:block;width:100%;margin:auto;padding:10;text-align:center;color:white; vertical-align:middle}
+
+
+
+
+.post-body h2{
+background-color:var(--bgcolor);
+border-bottom: 3px solid #000;
+padding: 5px 10px 0px 10px;
+border-radius: 8px;
+font:500 22px Roboto,sans-serif;
+font-weight: bold;
+text-align:center;
+font-family:SolaimanLipi;
+margin:10px 0;
+color:#ffffff;
+padding:7px 25px;
+transition:.4s;-webkit-transition:.4s;position:relative}
+.post-body h2:after{content:'';position:absolute;width:10%;height:1px;
+background:var(--bgcolor);
+bottom:0;left:50%;transform:translate(-50%,0);transition:1s;-webkit-transition:1s}
+
+
+
+
+
+
+
+
+#wrap {
+    margin: 20px auto;
+    text-align: center;
+}
+#wrap br {
+    display: none;
+}
+.btn-slide, .btn-slide2 {
+    position: relative;
+    display: inline-block;
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    padding: 0;
+    border-radius: 50px;
+    background: #fdfdfd;
+    border: 2px solid #0099cc;
+    margin: 10px;
+    transition: .5s;
+}
+.btn-slide2 {
+    border: 2px solid #efa666;
+}
+.btn-slide:hover {
+    background-color: #0099cc;
+}
+.btn-slide2:hover {
+    background-color: #efa666;
+}
+.btn-slide:hover span.circle, .btn-slide2:hover span.circle2 {
+    left: 100%;
+    margin-left: -45px;
+    background-color: #fdfdfd;
+    color: #0099cc;
+}
+.btn-slide2:hover span.circle2 {
+    color: #efa666;
+}
+.btn-slide:hover span.title, .btn-slide2:hover span.title2 {
+    left: 40px;
+    opacity: 0;
+}
+.btn-slide:hover span.title-hover, .btn-slide2:hover span.title-hover2 {
+    opacity: 1;
+    left: 40px;
+}
+.btn-slide span.circle, .btn-slide2 span.circle2 {
+    display: block;
+    background-color: #0099cc;
+    color: #fff;
+    position: absolute;
+    float: left;
+    margin: 5px;
+    line-height: 42px;
+    height: 40px;
+    width: 40px;
+    top: 0;
+    left: 0;
+    transition: .5s;
+    border-radius: 50%;
+}
+.btn-slide2 span.circle2 {
+    background-color: #efa666;
+}
+.btn-slide span.title,
+  .btn-slide span.title-hover, .btn-slide2 span.title2,
+  .btn-slide2 span.title-hover2 {
+    position: absolute;
+    left: 90px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #30abd5;
+    transition: .5s;
+}
+.btn-slide2 span.title2,
+  .btn-slide2 span.title-hover2 {
+    color: #efa666;
+    left: 80px;
+}
+.btn-slide span.title-hover, .btn-slide2 span.title-hover2 {
+    left: 80px;
+    opacity: 0;
+}
+.btn-slide span.title-hover, .btn-slide2 span.title-hover2 {
+    color: #fff;
+
+}
